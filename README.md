@@ -1,4 +1,4 @@
-# Causepid: example codes for "Causal Inference for Epidemic Models [[1](#BVW25)]"
+# `causepid`: example codes for "Causal Inference for Epidemic Models" [[1](#BVW25)]
 
 This repository consists of 
 1. the data from Delphi COVIDcast ([[3](#Delphi21)]), analyzed in [[1](#BVW25)] and [[2](#BVW24)]. 
